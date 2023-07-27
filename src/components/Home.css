@@ -1,0 +1,45 @@
+.my-home{
+    font-family: 'Chewy', cursive;
+    height: 90vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.cont-articles h1{
+    color: rgb(255, 255, 255);
+}
+
+.contain-articles{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.cont-trending{
+    width: 300px;
+    margin: 70px;
+    margin-right: 200px;
+}
+
+.cont-trending2{
+    width: 300px;
+    margin: 70px;
+    margin-left: 200px;
+}
+
+.cont-body{
+    background-color: rgb(34, 31, 31);
+}
+
+.cont-text{
+    color: #ffffff;
+}
+
+
+.imag{
+    object-fit: cover;
+    height: 300px ;
+}
+

@@ -1,0 +1,41 @@
+.contact-section {
+    font-family: 'Chewy', cursive;
+    height: 90vh;
+    margin-top: 50px;
+}
+
+
+.title h1{
+    color: rgb(0, 0, 0);
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+Form {
+    max-width: 800px; 
+    width: 100%;
+    padding: 20px;
+    border: 2px solid #000000;
+    border-radius: 15px;
+    background-color: rgb(240, 240, 240);
+}
+
+.form-group {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.form-label{
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+}
+
+.button{
+    width: 17vh;
+    margin-top: 30px;
+}
+
