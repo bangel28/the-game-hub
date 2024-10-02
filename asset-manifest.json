@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/the-game-hub/static/css/main.ff4f47fa.css",
+    "main.js": "/the-game-hub/static/js/main.472e123b.js",
+    "static/media/fifa23.jpeg": "/the-game-hub/static/media/fifa23.385f4f96efed3bf962a9.jpeg",
+    "static/media/codmw.jpeg": "/the-game-hub/static/media/codmw.5743a10c177abdcf3840.jpeg",
+    "static/media/eafc.jpeg": "/the-game-hub/static/media/eafc.3e52b7f6024b95aaaaa4.jpeg",
+    "static/media/imgg.jpeg": "/the-game-hub/static/media/imgg.c6a9ae9ebdadc63abad1.jpeg",
+    "static/media/acreed.jpeg": "/the-game-hub/static/media/acreed.74691c4326b79d6a5e6e.jpeg",
+    "static/media/gowrag.jpeg": "/the-game-hub/static/media/gowrag.4027eb694332f27edcd3.jpeg",
+    "static/media/spidey.jpeg": "/the-game-hub/static/media/spidey.f86589027154f2cca173.jpeg",
+    "static/media/gta.jpeg": "/the-game-hub/static/media/gta.8902a47df53a89ba3170.jpeg",
+    "static/media/nba23.jpeg": "/the-game-hub/static/media/nba23.37564f45692cef82e63c.jpeg",
+    "static/media/ps5.jpeg": "/the-game-hub/static/media/ps5.7c8117d42b56ec4deedf.jpeg",
+    "static/media/switcholed.jpeg": "/the-game-hub/static/media/switcholed.f98baa43cf1dd3a507b2.jpeg",
+    "static/media/switch.jpeg": "/the-game-hub/static/media/switch.fe0800e345c3479c6cfc.jpeg",
+    "static/media/xbox.jpeg": "/the-game-hub/static/media/xbox.ae840e1845b99f4ade8e.jpeg",
+    "index.html": "/the-game-hub/index.html",
+    "main.ff4f47fa.css.map": "/the-game-hub/static/css/main.ff4f47fa.css.map",
+    "main.472e123b.js.map": "/the-game-hub/static/js/main.472e123b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff4f47fa.css",
+    "static/js/main.472e123b.js"
+  ]
+}
