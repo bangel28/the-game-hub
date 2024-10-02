@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/the-game-hub/static/css/main.ff4f47fa.css",
-    "main.js": "/the-game-hub/static/js/main.e8e974fd.js",
+    "main.js": "/the-game-hub/static/js/main.8015311b.js",
     "static/media/fifa23.jpeg": "/the-game-hub/static/media/fifa23.385f4f96efed3bf962a9.jpeg",
     "static/media/codmw.jpeg": "/the-game-hub/static/media/codmw.5743a10c177abdcf3840.jpeg",
     "static/media/eafc.jpeg": "/the-game-hub/static/media/eafc.3e52b7f6024b95aaaaa4.jpeg",
@@ -17,10 +17,10 @@
     "static/media/xbox.jpeg": "/the-game-hub/static/media/xbox.ae840e1845b99f4ade8e.jpeg",
     "index.html": "/the-game-hub/index.html",
     "main.ff4f47fa.css.map": "/the-game-hub/static/css/main.ff4f47fa.css.map",
-    "main.e8e974fd.js.map": "/the-game-hub/static/js/main.e8e974fd.js.map"
+    "main.8015311b.js.map": "/the-game-hub/static/js/main.8015311b.js.map"
   },
   "entrypoints": [
     "static/css/main.ff4f47fa.css",
-    "static/js/main.e8e974fd.js"
+    "static/js/main.8015311b.js"
   ]
 }
