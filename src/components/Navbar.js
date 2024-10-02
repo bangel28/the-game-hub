@@ -12,9 +12,9 @@ function NavBar() {
     return( 
         <Navbar className='navbar' data-bs-theme="dark">
         <Container>
-          <Navbar.Brand className='brand' href="/">The GameHub</Navbar.Brand>
+          <Navbar.Brand className='brand' href="/the-game-hub">The GameHub</Navbar.Brand>
           <Nav>
-            <Nav.Link className='link' href="/">Home</Nav.Link>
+            <Nav.Link className='link' href="/the-game-hub">Home</Nav.Link>
             <Nav.Link className='link' href='/Contact'>Contact</Nav.Link>
             <Nav.Link className='link' href="/About">About</Nav.Link>
             <NavDropdown className='link' title="Shop" id="navbarScrollingDropdown">
