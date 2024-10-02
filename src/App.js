@@ -17,16 +17,16 @@ function App() {
           <Route exact path='/the-game-hub'>
             <Home/>
           </Route>  
-          <Route path='/HomeFR'>
+          <Route path='/the-game-hub/HomeFR'>
             <HomeFR/>
           </Route>
-          <Route path='/Contact'>
+          <Route path='/the-game-hub/Contact'>
             <Contact/>
           </Route>
-          <Route path='/About'>
+          <Route path='/the-game-hub/About'>
             <About/>
           </Route>
-          <Route path='/Product'>
+          <Route path='/the-game-hub/Product'>
             <ProductsPage/>
           </Route>       
       </Switch>
