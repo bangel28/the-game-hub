@@ -4,7 +4,7 @@ import Product from './Product';
 import './ProductsPage.css';
 
 function ProductsPage() {
-  const [products, setProducts] = useState([
+  const [products] = useState([
     { id: 1, name: 'Play Station 5', category: 'Console', price: 20, imageUrl: require('./images/ps5.jpeg') },
     { id: 2, name: 'Xbox Series S', category: 'Console', price: 30, imageUrl: require('./images/xbox.jpeg') },
     { id: 3, name: 'FIFA 23', category: 'Video Game', price: 30, imageUrl: require('./images/fifa23.jpeg') },
