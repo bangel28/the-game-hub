@@ -5,7 +5,8 @@ import Contact from './components/Contact';
 import About from './components/About';
 import ProductsPage from './components/ProductsPage';
 import HomeFR from './components/HomeFR';
-import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
+import React from "react";
+import { HashRouter, Route, Routes, Link } from "react-router-dom";
 
 function App() {
   return (
